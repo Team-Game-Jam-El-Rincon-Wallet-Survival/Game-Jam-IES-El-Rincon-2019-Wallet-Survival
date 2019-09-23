@@ -2,4 +2,4 @@
 
 Game Jam IES EL RINCON "Wallet Suvival"
 
-Developers: Carlos Caravallo & Richard Vinueza
+Developers: Carlos Caraballo & Richard Vinueza
